@@ -1,52 +1,52 @@
-ï»¿{
-# å…¬ä¼—å·é…ç½®
-# å…¬ä¼—å·appId
+{
+# ¹«ÖÚºÅÅäÖÃ
+# ¹«ÖÚºÅappId
 "app_id": "wx0d4284e31c5dfa23",
-# å…¬ä¼—å·appSecret
+# ¹«ÖÚºÅappSecret
 "app_secret": "6e94785e76295b479e42c58ce8c09222",
-# æ¨¡æ¿æ¶ˆæ¯id
+# Ä£°åÏûÏ¢id
 "template_id": "ad9rOiSuQrP5da3zqA543VLKp7N8poIZC69FgN07s8s",
-# æŽ¥æ”¶å…¬ä¼—å·æ¶ˆæ¯çš„å¾®ä¿¡å·ï¼Œå¦‚æžœæœ‰å¤šä¸ªï¼Œéœ€è¦åœ¨[]é‡Œç”¨è‹±æ–‡é€—å·é—´éš”ï¼Œä¾‹å¦‚["wx1", "wx2"]
+# ½ÓÊÕ¹«ÖÚºÅÏûÏ¢µÄÎ¢ÐÅºÅ£¬Èç¹ûÓÐ¶à¸ö£¬ÐèÒªÔÚ[]ÀïÓÃÓ¢ÎÄ¶ººÅ¼ä¸ô£¬ÀýÈç["wx1", "wx2"]
 "user": ["oLeb45zzPWZLkae3VOR5--vT5O-M"],
 
-# ä¿¡æ¯é…ç½®
-# å’Œé£Žå¤©æ°”apikey
+# ÐÅÏ¢ÅäÖÃ
+# ºÍ·çÌìÆøapikey
 "weather_key": "44f598e96cf8412aa04571ca690b3afb",
-# å¤©è¡Œæ•°æ®apikey
+# ÌìÐÐÊý¾Ýapikey
 "tian_api": "875d87f48d7c869b12ad84671be5bccf",
-# æ‰€åœ¨åœ°åŒºï¼Œå¯ä¸ºçœï¼ŒåŸŽå¸‚ï¼ŒåŒºï¼ŒåŽ¿ï¼ŒåŒæ—¶æ”¯æŒå›½å¤–åŸŽå¸‚ï¼Œä¾‹å¦‚ä¼¦æ•¦
-"region": "ç•ªç¦ºåŒº",
-# ç”Ÿæ—¥1ï¼Œåœ¨æ—¥æœŸå‰åŠ rä»£è¡¨å†œåŽ†ç”Ÿæ—¥
-"birthday1": {"name": "å°å®", "birthday": "1997-01-01"},
-# ç”Ÿæ—¥2
-"birthday2": {"name": "å°æž—", "birthday": "r1997-01-01"},
-# çºªå¿µæ—¥1ï¼Œä¼šè®¡ç®—ç´¯è®¡æ—¶é—´ï¼Œæ ¼å¼"YYYY-MM-DD"
+# ËùÔÚµØÇø£¬¿ÉÎªÊ¡£¬³ÇÊÐ£¬Çø£¬ÏØ£¬Í¬Ê±Ö§³Ö¹úÍâ³ÇÊÐ£¬ÀýÈçÂ×¶Ø
+"region": "·¬Ø®Çø",
+# ÉúÈÕ1£¬ÔÚÈÕÆÚÇ°¼Ór´ú±íÅ©ÀúÉúÈÕ
+"birthday1": {"name": "Ð¡±¦", "birthday": "1997-01-01"},
+# ÉúÈÕ2
+"birthday2": {"name": "Ð¡ÁÖ", "birthday": "r1997-01-01"},
+# ¼ÍÄîÈÕ1£¬»á¼ÆËãÀÛ¼ÆÊ±¼ä£¬¸ñÊ½"YYYY-MM-DD"
 "commemoration_day1": "2021-01-01",
-# çºªå¿µæ—¥2ï¼ŒåŒä¸Š
+# ¼ÍÄîÈÕ2£¬Í¬ÉÏ
 "commemoration_day2": "2021-01-01",
-# é‡‘å¥ä¸­æ–‡ï¼Œç•™ç©ºé»˜è®¤æ˜¾ç¤ºé‡‘å±±çš„æ¯æ—¥é‡‘å¥
+# ½ð¾äÖÐÎÄ£¬Áô¿ÕÄ¬ÈÏÏÔÊ¾½ðÉ½µÄÃ¿ÈÕ½ð¾ä
 "note_ch": "",
-# é‡‘å¥è‹±æ–‡
+# ½ð¾äÓ¢ÎÄ
 "note_en": "",
-# å­—ä½“é¢œè‰²:ä½¿ç”¨RGBé¢œè‰²(å¦‚#000000é»‘è‰²)ï¼Œç•™ç©ºé¢œè‰²é»˜è®¤éšæœº
-"color_date":                     "",          # æ—¥æœŸå­—ä½“é¢œè‰²
-"color_region":                   "",          # åœ°åŒºå­—ä½“é¢œè‰²
-"color_weather":                  "",          # å¤©æ°”å­—ä½“é¢œè‰²
-"color_temp":                     "",          # å½“å‰æ¸©åº¦å­—ä½“é¢œè‰²
-"color_wind":                     "",          # å½“å‰é£Žå‘å­—ä½“é¢œè‰²
-"color_note_en":                  "",          # é‡‘å¥è‹±æ–‡å­—ä½“é¢œè‰²
-"color_note_zh":                  "",          # é‡‘å¥ä¸­æ–‡å­—ä½“é¢œè‰²
-"color_max_temp":                 "",          # æœ€é«˜æ¸©åº¦å­—ä½“é¢œè‰²
-"color_min_temp":                 "",          # æœ€ä½Žæ¸©åº¦å­—ä½“é¢œè‰²
-"color_sunrise":                  "",          # æ—¥å‡ºå­—ä½“é¢œè‰²
-"color_sunset":                   "",          # æ—¥è½å­—ä½“é¢œè‰²
-"color_category":                 "",          # ç©ºæ°”è´¨é‡å­—ä½“é¢œè‰²
-"color_pm2p5":                    "",          # pm2.5å­—ä½“é¢œè‰²
-"color_proposal":                 "",          # ä»Šæ—¥å»ºè®®å­—ä½“é¢œè‰²
-"color_chp":                      "",          # å½©è™¹å±å­—ä½“é¢œè‰²
-"color_birthday1":                "",          # ç”Ÿæ—¥1å­—ä½“é¢œè‰²
-"color_birthday2":                "",          # ç”Ÿæ—¥2å­—ä½“é¢œè‰²
-"color_commemoration_day1":       "",          # çºªå¿µæ—¥1å­—ä½“é¢œè‰²
-"color_commemoration_day2":       "",          # çºªå¿µæ—¥2å­—ä½“é¢œè‰²
-"color_yq":                       "",          # ç–«æƒ…æ•°æ®å­—ä½“é¢œè‰²
+# ×ÖÌåÑÕÉ«:Ê¹ÓÃRGBÑÕÉ«(Èç#000000ºÚÉ«)£¬Áô¿ÕÑÕÉ«Ä¬ÈÏËæ»ú
+"color_date":                     "",          # ÈÕÆÚ×ÖÌåÑÕÉ«
+"color_region":                   "",          # µØÇø×ÖÌåÑÕÉ«
+"color_weather":                  "",          # ÌìÆø×ÖÌåÑÕÉ«
+"color_temp":                     "",          # µ±Ç°ÎÂ¶È×ÖÌåÑÕÉ«
+"color_wind":                     "",          # µ±Ç°·çÏò×ÖÌåÑÕÉ«
+"color_note_en":                  "",          # ½ð¾äÓ¢ÎÄ×ÖÌåÑÕÉ«
+"color_note_zh":                  "",          # ½ð¾äÖÐÎÄ×ÖÌåÑÕÉ«
+"color_max_temp":                 "",          # ×î¸ßÎÂ¶È×ÖÌåÑÕÉ«
+"color_min_temp":                 "",          # ×îµÍÎÂ¶È×ÖÌåÑÕÉ«
+"color_sunrise":                  "",          # ÈÕ³ö×ÖÌåÑÕÉ«
+"color_sunset":                   "",          # ÈÕÂä×ÖÌåÑÕÉ«
+"color_category":                 "",          # ¿ÕÆøÖÊÁ¿×ÖÌåÑÕÉ«
+"color_pm2p5":                    "",          # pm2.5×ÖÌåÑÕÉ«
+"color_proposal":                 "",          # ½ñÈÕ½¨Òé×ÖÌåÑÕÉ«
+"color_chp":                      "",          # ²ÊºçÆ¨×ÖÌåÑÕÉ«
+"color_birthday1":                "",          # ÉúÈÕ1×ÖÌåÑÕÉ«
+"color_birthday2":                "",          # ÉúÈÕ2×ÖÌåÑÕÉ«
+"color_commemoration_day1":       "",          # ¼ÍÄîÈÕ1×ÖÌåÑÕÉ«
+"color_commemoration_day2":       "",          # ¼ÍÄîÈÕ2×ÖÌåÑÕÉ«
+"color_yq":                       "",          # ÒßÇéÊý¾Ý×ÖÌåÑÕÉ«
 }
